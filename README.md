@@ -1,4 +1,4 @@
-# Disruption Simulation Project
+# Disruption Effect
 
 ## Overview
 
@@ -34,7 +34,6 @@ On a more practical level, this approach demonstrates how modeling and simulatio
 ### Philosophical and Existential Reflection
 
 The idea of life as a simulation, with built-in errors or anomalies, opens up existential and philosophical discussions. It encourages thinking about the nature of reality, our place in the universe, and how much we can truly know or predict about the world around us.
-
 
 ## Density-Dependent Error Probability
 The simulation introduces the concept of density-dependent error probability, where the likelihood of anomalies is influenced by the density of objects in the universe. This approach draws from ideas of proportionality and normalization in mathematics, reflecting scenarios where denser areas might have a higher likelihood of experiencing significant events.
